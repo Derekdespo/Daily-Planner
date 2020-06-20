@@ -3,15 +3,17 @@
 const clock = $("#currentDay");
 
 // Global arrays
-var save9 = [];
-var save10 = [];
-var save11 = [];
-var save12 = [];
-var save13 = [];
-var save14 = [];
-var save15 = [];
-var save16 = [];
-var save17 = [];
+
+// var save9 = [];
+// var save10 = [];
+// var save11 = [];
+// var save12 = [];
+// var save13 = [];
+// var save14 = [];
+// var save15 = [];
+// var save16 = [];
+// var save17 = [];
+
 // Create a function to update the clock
 function updateTime() {
     const now = moment();
